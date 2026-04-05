@@ -10,9 +10,10 @@ Built with Python and Tkinter — optimized for an **800×480 touchscreen displa
 ---
 
 ## 📸 Screenshot
-
-![Screenshot](screenshot/discharged.png)
-![Screenshot](screenshot/fastcharging.png)
+https://github.com/anhnn-vie/battery_monitor_waveshare_ups_hat_e/blob/main/discharged.png
+https://github.com/anhnn-vie/battery_monitor_waveshare_ups_hat_e/blob/main/fastcharging.png
+![Screenshot](/discharged.png)
+![Screenshot](/fastcharging.png)
 
 ---
 
